@@ -10,6 +10,7 @@ Please checkout 👉 [contribution-note.md](./contribution-note.md) for instruct
 ## Internship/Co-op
 | Title | Company | Start Time | End Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|----------|-------------|-------|
+|[Spring 2024 Intern - Meshing](https://careers.ansys.com/job/Evanston-Spring-2024-Intern-Meshing-%28Bachelors-or-Masters%29-IL-60201/1025585500/)| Ansys | N/A | N/A | Evanston, IL | N/A | N/A |
 |[Fall 2023 - Spring 2024 Software Testing Co-op](https://careers.ansys.com/job/IN-Home-City-Fall-2023-Spring-2024-Software-Testing-Co-op-IN-46201/983808000/)| Ansys | N/A | N/A | Home City, IN | N/A | 8-month full-time |
 |[Spring 2024 Co-op - Software Development - Mechanical (Bachelor's)](https://careers.ansys.com/job/Canonsburg-Spring-2024-Co-op-Software-Development-Mechanical-%28Bachelors%29-PA-15317/1025459700/)| Ansys | N/A | N/A | Canonsburg, PA | N/A | N/A |
 |[AI Software Architectures & Algorithms - 2024 Spring Co-op](https://careers.ll.mit.edu/job/Lexington-Group-41-AI-Software-Architectures-&-Algorithms-2024-Spring-Co-op-MA-02420/1025917200/)| MIT Lincoln Laboratory | N/A | N/A | Lexington, MA, US | N/A | N/A |
