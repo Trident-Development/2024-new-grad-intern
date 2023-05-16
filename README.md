@@ -10,6 +10,7 @@ Please checkout 👉 [contribution-note.md](./contribution-note.md) for instruct
 ## Internship/Co-op
 | Title | Company | Start Time | End Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|----------|-------------|-------|
+|[Spring 2024 Intern - Software Testing - Release Management](https://careers.ansys.com/job/Canonsburg-Spring-2024-Intern-Software-Testing-Release-Management-%28Bachelors%29-REMOTE-PA-15317/1025462900)| Ansys | Jan 2024 | April 2024 | Remote | N/A | N/A |
 |[Spring - Summer 2024 Software Testing Coop](https://careers.ansys.com/job/Canonsburg-Spring-Summer-2024-Software-Testing-Coop-%28BS%2C-MS%29-PA-15317/1028707500/)| Ansys | Jan 2024 | Aug 2024 | Canonsburg, PA | N/A | N/A |
 |[2024 Summer Intern - Software Engineer, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2024-Summer-Intern---Software-Engineer--US_R102876)| PIMCO | June 2024 | N/A | Newport Beach, CA | N/A | $43.27/h | 
 |[Technology Co-op](https://jnjc.taleo.net/careersection/4/jobdetail.ftl?job=2306118541W&lang=en&src=JB-10280)| Johnson & Johnson | Sep 2023 | March 2024 | N/A | N/A | $22.75/h - $29/h |
