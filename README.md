@@ -4,10 +4,15 @@ A repo for internship and new grad positions in 2024. Hope this will help all th
 
 *Note: The jobs are sorted chronologically (newest first).*
 
-### Contribution Notes
+### Contribution Notes 🌟
 Please checkout 👉 [contribution-note.md](./contribution-note.md) for instructions on contributing to the job tables.
 
-## Internship/Co-op
+### Other Than Just Job Postings
+Want to know how much other folks are getting paid? 👉 Check out [salary-sharing.md](./salary-sharing.md)!!!
+
+---
+
+## Internship/Co-op Job Posts
 | Title | Company | Start Time | End Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|----------|-------------|-------|
 |[Software Engineer Intern - Winter Session](https://jobs.lever.co/nimblerx/f1b1c7ab-60f4-4051-93ea-d2dbba1cee9c)| Nimble | Jan 2024 | Apr 2024 | Remote | N/A | N/A |
@@ -24,7 +29,7 @@ Please checkout 👉 [contribution-note.md](./contribution-note.md) for instruct
 |[2024 Tech Graduate & Intern – Expression of Interest](https://optiver.com/working-at-optiver/career-opportunities/6497784002/)| Optiver | N/A | | N/A | Chicago,IL / Austin, TX | N/A | N/A |
 |[Futureforce Tech Equality Summit - Software Engineer Internship for Summer 2024](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Futureforce-Tech-Equality-Summit---Software-Engineer-Internship-for-Summer-2024_JR176445-1)| Salesforce | July 16 | July 18 | Multiple Locations | N/A | Interview prep - not internship |
 
-## New Grad
+## New Grad Job Posts
 | Title | Company | Start Time | End Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|----------|-------------|-------|
 |[Software Engineer, New Grad 2024](https://jobs.lever.co/perpay/032c6423-f7b4-4d6a-b369-a415630948e8)| Perpay | N/A | N/A | Philadelphia, PA | N/A | N/A |
