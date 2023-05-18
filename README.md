@@ -10,6 +10,7 @@ Please checkout 👉 [contribution-note.md](./contribution-note.md) for instruct
 ## Internship/Co-op
 | Title | Company | Start Time | End Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|----------|-------------|-------|
+|[Software Engineer Intern - Winter Session](https://jobs.lever.co/nimblerx/f1b1c7ab-60f4-4051-93ea-d2dbba1cee9c)| Nimble | Jan 2024 | Apr 2024 | Remote | N/A | N/A |
 |[Spring 2024 Intern - Software Testing - Release Management](https://careers.ansys.com/job/Canonsburg-Spring-2024-Intern-Software-Testing-Release-Management-%28Bachelors%29-REMOTE-PA-15317/1025462900)| Ansys | Jan 2024 | April 2024 | Remote | N/A | N/A |
 |[Spring - Summer 2024 Software Testing Coop](https://careers.ansys.com/job/Canonsburg-Spring-Summer-2024-Software-Testing-Coop-%28BS%2C-MS%29-PA-15317/1028707500/)| Ansys | Jan 2024 | Aug 2024 | Canonsburg, PA | N/A | N/A |
 |[2024 Summer Intern - Software Engineer, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2024-Summer-Intern---Software-Engineer--US_R102876)| PIMCO | June 2024 | N/A | Newport Beach, CA | N/A | $43.27/h | 
