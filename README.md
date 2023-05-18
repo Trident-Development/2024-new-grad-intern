@@ -1,6 +1,6 @@
 # 2024 Tech Intern/New Grad Positions 💻💼
 
-A repo for internship and new grad positions in 2024. Hope this will help all the students who are looking for a job, and best of luck in your job search! 🍀
+A repo for [internship](https://github.com/Trident-Development/2024-new-grad-intern/tree/dev#internshipco-op-job-posts) and [new grad](https://github.com/Trident-Development/2024-new-grad-intern/tree/dev#internshipco-op-job-posts) positions in 2024. Hope this will help all the students who are looking for a job, and best of luck in your job search! 🍀
 
 *Note: The jobs are sorted chronologically (newest first).*
 
