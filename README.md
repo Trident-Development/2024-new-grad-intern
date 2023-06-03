@@ -34,6 +34,7 @@ Want to know how much other folks are getting paid? 👉 Check out [salary-shari
 ## New Grad Job Posts
 | Title | Company | Start Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|-------------|-------|
+|[New Graduate Rotation (Early 2024 Start Date) – Avionics Software](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/New-Graduate-Rotation--Early-2024-Start-Date----Avionics-Software_R34600)| BLUE ORIGIN | Anytime from Jan 24 to Apr 24 | Seattle, WA | No | Must be a US person |
 |[GE Aerospace US Edison Engineering Development Program - Software - 2024 Start](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3701186EXTERNALENGLOBAL/GE-Aerospace-US-Edison-Engineering-Development-Program-EEDP-Software-2024-Start)| GE Aerospace | N/A | Multiple locations | N/A | base salary $84k |
 |[IT Development Rotation Program Trainee](https://www.tractorsupply.careers/job/Brentwood-IT-Development-Rotation-Program-Trainee-%28Jan-2024-Start%29-TN-37027/1007733300)| Tractor Supply Company | Jan 2024 | Brentwood, TN | N/A | This is an IT position, not SWE |
 |[Software Engineer, New Grad 2024](https://jobs.lever.co/perpay/032c6423-f7b4-4d6a-b369-a415630948e8)| Perpay | N/A | Philadelphia, PA | N/A | N/A |
