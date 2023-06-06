@@ -15,6 +15,8 @@ Want to know how much other folks are getting paid? 👉 Check out [salary-shari
 ## Internship/Co-op Job Posts
 | Title | Company | Start Time | End Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|----------|-------------|-------|
+|[Software Engineering Intern, MS, Summer 2024](https://careers.google.com/jobs/results/130444705243505350-software-engineering-intern-ms-summer-2024/)| Google | N/A | N/A | Multiple Locations | Yes | Submit application before June 12, 2023 |
+|[Software Engineering Intern, BS, Summer 2024](https://careers.google.com/jobs/results/73287692785197766-software-engineering-intern-bs-summer-2024/)| Google | N/A | N/A | Multiple Locations | Yes | Submit application before June 12, 2023 |
 |[2024 Summer Intern: Software Engineer II](https://careers.walmart.com/us/jobs/WD1391200-2024-summer-intern-software-engineer-ii-bentonville-ar)| Walmart | N/A | N/A | Bentonville, AR | No | N/A |
 |[Spring 2024 Co-op - Ansys Discovery Post-processing](https://careers.ansys.com/job/WA-Home-City-Spring-2024-Co-op-Ansys-Discovery-Post-processing-WA-98501/1028692500)| Ansys | N/A | N/A | WA Home City, WA | N/A | N/A |
 |[Software Engineer Intern - Winter Session](https://jobs.lever.co/nimblerx/f1b1c7ab-60f4-4051-93ea-d2dbba1cee9c)| Nimble | Jan 2024 | Apr 2024 | Remote | N/A | N/A |
