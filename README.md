@@ -15,6 +15,7 @@ Want to know how much other folks are getting paid? 👉 Check out [salary-shari
 ## Internship/Co-op Job Posts
 | Title | Company | Start Time | End Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|----------|-------------|-------|
+|[Spring 2024 Avionics, Computer Science, Computer Science Engineering Intern - Undergraduate](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Spring-2024-Avionics--Computer-Science--Computer-Science-Engineering-Intern---Undergraduate_R34916)| BLUE ORIGIN | Jan 8, 2024 | N/A | Seattle, WA | No | Must be a US person |
 |[Co-op: Engineering, Embedded Software (Spring 2024)](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?AReq=141119BR&siteid=5171&partnerid=25079&PageType=JobDetails#jobDetails=762116_5171)| Volvo Group | N/A | N/A | Hagerstown, MD | N/A | $16/hr - $46/hr |
 |[Software Engineering Intern, MS, Summer 2024](https://careers.google.com/jobs/results/130444705243505350-software-engineering-intern-ms-summer-2024/)| Google | N/A | N/A | Multiple Locations | Yes | Submit application before June 12, 2023 |
 |[Software Engineering Intern, BS, Summer 2024](https://careers.google.com/jobs/results/73287692785197766-software-engineering-intern-bs-summer-2024/)| Google | N/A | N/A | Multiple Locations | Yes | Submit application before June 12, 2023 |
