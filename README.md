@@ -15,6 +15,7 @@ Want to know how much other folks are getting paid? 👉 Check out [salary-shari
 ## Internship/Co-op Job Posts
 | Title | Company | Start Time | End Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|----------|-------------|-------|
+|[Software Engineering Intern, AWS Center for Quantum Computing](https://www.amazon.jobs/en/jobs/2383729/software-engineering-intern-aws-center-for-quantum-computing-aws-center-for-quantum-computing)| Amazon | Aug/Sep 2023 | N/A | San Francisco, CA | Yes | Fall 2023 |
 |[Data Products Intern](https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69)| Mercedes-Benz | N/A | N/A | Sunnyvale, CA | N/A | $28(Undergraduate Students) / $32(Graduate Students) |
 |[Spring 2024 Avionics, Computer Science, Computer Science Engineering Intern - Undergraduate](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Spring-2024-Avionics--Computer-Science--Computer-Science-Engineering-Intern---Undergraduate_R34916)| BLUE ORIGIN | Jan 8, 2024 | N/A | Seattle, WA | No | Must be a US person |
 |[Co-op: Engineering, Embedded Software (Spring 2024)](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?AReq=141119BR&siteid=5171&partnerid=25079&PageType=JobDetails#jobDetails=762116_5171)| Volvo Group | N/A | N/A | Hagerstown, MD | N/A | $16/hr - $46/hr |
