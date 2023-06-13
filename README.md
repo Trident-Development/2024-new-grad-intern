@@ -15,6 +15,7 @@ Want to know how much other folks are getting paid? 👉 Check out [salary-shari
 ## Internship/Co-op Job Posts
 | Title | Company | Start Time | End Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|----------|-------------|-------|
+|[New Programs Engineering - Firmware Engineering Internship (Spring 2024)](https://www.tesla.com/careers/search/job/new-programs-engineering-firmware-engineering-internship-spring-2024-199465)| Tesla | Jan 2024 | N/A | Fremont,CA / Hawthorne,CA | N/A | $20.00/hr - $50.00/hr |
 |[Intern: Engineering, Embedded Software (Summer 2024)](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25079&siteid=5171&AReq=141120BR#jobDetails=762117_5171)| Volvo Group | N/A | N/A | Hagerstown, MD | N/A | $16/hr - $46/hr |
 |[Data Products Intern](https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69)| Mercedes-Benz | N/A | N/A | Sunnyvale, CA | N/A | $28(Undergraduate Students) / $32(Graduate Students) |
 |[Spring 2024 Avionics, Computer Science, Computer Science Engineering Intern - Undergraduate](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Spring-2024-Avionics--Computer-Science--Computer-Science-Engineering-Intern---Undergraduate_R34916)| BLUE ORIGIN | Jan 8, 2024 | N/A | Seattle, WA | No | Must be a US person |
