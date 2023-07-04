@@ -15,6 +15,7 @@ Want to know how much other folks are getting paid? 👉 Check out [salary-shari
 ## Internship/Co-op Job Posts
 | Title | Company | Start Time | End Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|----------|-------------|-------|
+|[Software Developer Intern - Summer 2024](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2024/23429)| Epic | N/A | N/A | Madison, WI | No | N/A |
 |[IT Software Development Co-Op Spring 2024](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2579?utm_medium=jobshare)| midmark | N/A | N/A | Versailles, OH | N/A | N/A | N/A |
 |[Mobile Robotics / Tesla Bot Mechanical Engineering Internship (Spring 2024)](https://www.tesla.com/careers/search/job/mobile-robotics-tesla-bot-mechanical-engineering-internship-spring-2024--199423)| Tesla | Jan 2024 | N/A | Palo Alto, CA | N/A | $20.00 - $50.00 hourly wage + benefits |
 |[New Programs Engineering - Firmware Engineering Internship (Spring 2024)](https://www.tesla.com/careers/search/job/new-programs-engineering-firmware-engineering-internship-spring-2024-199465)| Tesla | Jan 2024 | N/A | Fremont,CA / Hawthorne,CA | N/A | $20.00/hr - $50.00/hr |
