@@ -15,8 +15,9 @@ Want to know how much other folks are getting paid? 👉 Check out [salary-shari
 ## Internship/Co-op Job Posts
 | Title | Company | Start Time | End Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|----------|-------------|-------|
-|[Full Stack Software Engineering, Applications Engineering (Winter/Spring 2024)](https://www.tesla.com/careers/search/job/full-stack-software-engineering-applications-engineering-winter-spring-2024-204274)| Tesla | Fan/Feb | Mar/Apr | Freemont, CA | N/A | N/A |
-|[Backend Software Engineering, Applications Engineering (Winter/Spring 2024)](https://www.tesla.com/careers/search/job/backend-software-engineering-applications-engineering-winter-spring-2024-204352)| Tesla | Fan/Feb | Mar/Apr | Freemont, CA | N/A | N/A |
+|[Infotainment Applications C++ Internship, Vehicle Software (Winter/Spring 2024)](https://www.tesla.com/careers/search/job/infotainment-applications-c-internship-vehicle-software-winter-spring-2024-203920)| Tesla | Jan/Feb | Mar/Apr | Palo Alto, CA | N/A | N/A |
+|[Full Stack Software Engineering, Applications Engineering (Winter/Spring 2024)](https://www.tesla.com/careers/search/job/full-stack-software-engineering-applications-engineering-winter-spring-2024-204274)| Tesla | Jan/Feb | Mar/Apr | Freemont, CA | N/A | N/A |
+|[Backend Software Engineering, Applications Engineering (Winter/Spring 2024)](https://www.tesla.com/careers/search/job/backend-software-engineering-applications-engineering-winter-spring-2024-204352)| Tesla | Jan/Feb | Mar/Apr | Freemont, CA | N/A | N/A |
 |[Frontend React/JS Internship, Vehicle Software (Winter/Spring 2024)](https://www.tesla.com/careers/search/job/frontend-react-js-internship-vehicle-software-winter-spring-2024-204364)| Tesla | Jan/Feb | Mar/Apr | Palo Alto, CA | N/A | N/A |
 |[Software Developer Intern - Summer 2024](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2024/23429)| Epic | N/A | N/A | Madison, WI | No | N/A |
 |[IT Software Development Co-Op Spring 2024](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2579?utm_medium=jobshare)| midmark | N/A | N/A | Versailles, OH | N/A | N/A | N/A |
