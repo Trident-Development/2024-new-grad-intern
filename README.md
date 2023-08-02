@@ -15,6 +15,7 @@ Want to know how much other folks are getting paid? 👉 Check out [salary-shari
 ## Internship/Co-op Job Posts
 | Title | Company | Start Time | End Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|----------|-------------|-------|
+|[Software Engineer Intern (Summer 2024)](https://boards.greenhouse.io/sentry/jobs/5193538)| Sentry | May 2024 | N/A | San Francisco, CA | N/A | N/A |
 |[Software Engineering Summer 2024 Intern- Undergraduate](https://medtronic.eightfold.ai/careers?pid=17363492&domain=medtronic.com)| Medtronic | N/A | N/A | Multiple Locations | N/A | N/A |
 |[Internship - Developer](https://boards.greenhouse.io/virtu/jobs/6771390002)| Virtu Financial | June 2024 | Aug 2024 | New York | N/A | N/A |
 |[Products & Tech - Engineering Intern - Summer 2024](https://jobs.us.pwc.com/job/-/-/932/52142561584)| PwC | N/A | N/A | Multiple Locations | N/A | N/A |
