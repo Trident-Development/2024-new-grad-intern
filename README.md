@@ -55,6 +55,7 @@ Want to know how much other folks are getting paid? 👉 Check out [salary-shari
 ## New Grad Job Posts
 | Title | Company | Start Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|-------------|-------|
+|[Software Engineer - New Grad](https://www.geckorobotics.com/careers/apply?gh_jid=5695200003)| Gecko Robotics | N/A | Boston, MA | N/A | N/A |
 |[Future Me Programme – Technology Graduate - Feb 2024 Start](https://careers.asbgroup.co.nz/jobdetails/ajid/CKoqt/Future-Me-Programme-%E2%80%93-Technology-Graduate-Feb-2024-Start,154324.html&LKD)| ASB | Feb 2024 | Albany, NY | N/A | N/A |
 |[Software Engineer, New Grad 2024](https://boards.greenhouse.io/sentry/jobs/5193895)| Sentry | N/A | San Francisco, CA | N/A | N/A |
 |[2024 Software Engineer Program - Fulltime (Feb 2024 Start Only)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210429330)| JP Morgan Chase | Feb 2024 | Multiple Locations | No | N/A |
