@@ -52,6 +52,7 @@ Want to know how much other folks are getting paid? 👉 Check out [salary-shari
 ## New Grad Job Posts
 | Title | Company | Start Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|-------------|-------|
+|[Software Engineer, New Grad 2024](https://boards.greenhouse.io/sentry/jobs/5193895)| Sentry | N/A | San Francisco, CA | N/A | N/A |
 |[2024 Software Engineer Program - Fulltime (Feb 2024 Start Only)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210429330)| JP Morgan Chase | Feb 2024 | Multiple Locations | No | N/A |
 |[Software Engineer (Entry-Level) - C++](https://akunacapital.com/job-details?gh_jid=5136022)| Akuna | N/A | Chicago, IL | N/A | N/A |
 |[New Graduate Rotation (Early 2024 Start Date) – Avionics Software](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/New-Graduate-Rotation--Early-2024-Start-Date----Avionics-Software_R34600)| BLUE ORIGIN | Anytime from Jan 24 to Apr 24 | Seattle, WA | No | Must be a US person |
