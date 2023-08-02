@@ -15,6 +15,7 @@ Want to know how much other folks are getting paid? 👉 Check out [salary-shari
 ## Internship/Co-op Job Posts
 | Title | Company | Start Time | End Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|----------|-------------|-------|
+|[Software Engineering Intern - Summer 2024](https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en)| Marotta | N/A | N/A | N/A | No | Must be U.S. citizen |
 |[Summer 2024 Intern/Coop - Software](https://www.rocketlabusa.com/careers/positions/summer-2024-internship-co-op-software-flexible-any-site-north-america-5679154003/)| Rocket Lab | May/June 2024 | N/A | Multiple Locations | No | Must be U.S. citizen |
 |[Spring 2024 Intern/Coop - Software](https://www.rocketlabusa.com/careers/positions/spring-2024-internship-co-op-software-flexible-any-site-north-america-5679115003/)| Rocket Lab | Jan/Feb/Mar 2024 | N/A | Multiple Locations | No | Must be U.S. citizen |
 |[Software Engineer Intern - .NET Desktop, Summer 2024](https://akunacapital.com/job-details?gh_jid=5139650)| Akuna | N/A | N/A | Chicago, IL | N/A | N/A |
