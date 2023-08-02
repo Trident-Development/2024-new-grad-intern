@@ -15,6 +15,7 @@ Want to know how much other folks are getting paid? 👉 Check out [salary-shari
 ## Internship/Co-op Job Posts
 | Title | Company | Start Time | End Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|----------|-------------|-------|
+|[Products & Tech - Engineering Intern - Summer 2024](https://jobs.us.pwc.com/job/-/-/932/52142561584)| PwC | N/A | N/A | Multiple Locations | N/A | N/A |
 |[Software Development Co-op](https://aluperf.referrals.selectminds.com/jobs/software-development-co-op-101209)| Nokia | Jan 2024 | May 2024 | Sunnyvale, CA | N/A | N/A |
 |[Fullstack Software Engineer Intern, AI Infrastructure - Winter 2024](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Full-Stack-Software-Engineering-Intern--AI-Infrastructure---Winter-2024_JR1969477)| NVidia | N/A | N/A | Santa Clara, CA | N/A | N/A |
 |[Software Engineering Intern - Summer 2024](https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en)| Marotta | N/A | N/A | N/A | No | Must be U.S. citizen |
