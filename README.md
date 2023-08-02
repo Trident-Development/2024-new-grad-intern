@@ -15,6 +15,7 @@ Want to know how much other folks are getting paid? 👉 Check out [salary-shari
 ## Internship/Co-op Job Posts
 | Title | Company | Start Time | End Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|----------|-------------|-------|
+|[Spring 2024 Intern/Coop - Software](https://www.rocketlabusa.com/careers/positions/spring-2024-internship-co-op-software-flexible-any-site-north-america-5679115003/)| Rocket Lab | Jan/Feb/Mar 2024 | N/A | Multiple Locations | No | Must be U.S. citizen |
 |[Software Engineer Intern - .NET Desktop, Summer 2024](https://akunacapital.com/job-details?gh_jid=5139650)| Akuna | N/A | N/A | Chicago, IL | N/A | N/A |
 |[Infotainment Applications C++ Internship, Vehicle Software (Winter/Spring 2024)](https://www.tesla.com/careers/search/job/infotainment-applications-c-internship-vehicle-software-winter-spring-2024-203920)| Tesla | Jan/Feb | Mar/Apr | Palo Alto, CA | N/A | N/A |
 |[Full Stack Software Engineering, Applications Engineering (Winter/Spring 2024)](https://www.tesla.com/careers/search/job/full-stack-software-engineering-applications-engineering-winter-spring-2024-204274)| Tesla | Jan/Feb | Mar/Apr | Freemont, CA | N/A | N/A |
