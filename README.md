@@ -57,6 +57,7 @@ Want to know how much other folks are getting paid? 👉 Check out [salary-shari
 ## New Grad Job Posts
 | Title | Company | Start Time | Location | Sponsorship | Notes |
 |-------|---------|------------|----------|-------------|-------|
+|[Associate Software Engineer - Seeking 2024 Grads](https://careers.veeva.com/job/14183881/associate-software-engineer-seeking-2024-grads-boston-ma/)| Veeva | N/A | Boston, MA | No | No Degree Needed |
 |[Associate Software Engineer - Master’s 2024 Graduates in Computer Science](https://careers.veeva.com/job/14183496/associate-software-engineer-master-s-2024-graduates-in-computer-science-boston-ma/)| Veeva | N/A | Boston, CA | Yes | MS required |
 |[Graduate Software Engineer (2024 Start - Austin)](https://optiver.com/working-at-optiver/career-opportunities/6837072002)| Optiver | N/A | Austin, TX | N/A | N/A |
 |[Software Engineer - New Grad](https://www.geckorobotics.com/careers/apply?gh_jid=5695200003)| Gecko Robotics | N/A | Boston, MA | N/A | N/A |
